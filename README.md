@@ -1,4 +1,4 @@
-# 🐍 Django Real-Time Chat System
+# 🐍 Django Real-Time Mini Chat App
 
 A real-time chat application built using Django Channels, providing WebSocket-based communication for instant messaging.
 
@@ -12,7 +12,7 @@ A real-time chat application built using Django Channels, providing WebSocket-ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Chebil-Ilef/Django-RealTime-Chat-System.git
+   git clone https://github.com/Chebil-Ilef/Django-Mini-Chat.git
    cd Django-RealTime-Chat-System
    ```
 
